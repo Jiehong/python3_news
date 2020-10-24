@@ -12,4 +12,4 @@ Then run: `jupyter notebook`
 
 ### Nix
 
-Run `nix-shell`, and then `jupyter notebook`.
+Run `nix-shell`.

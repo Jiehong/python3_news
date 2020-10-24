@@ -9,7 +9,7 @@ let
 
   # define shell startup command
   hooks = ''
-    echo 'jupyter notebook'
+    jupyter notebook
   '';
 
 in mkShell {
