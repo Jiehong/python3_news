@@ -9,7 +9,7 @@ let
 
   # define shell startup command
   hooks = ''
-    jupyter notebook
+    jupyter notebook python_new_features_exploration.ipynb
   '';
 
 in mkShell {
